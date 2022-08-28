@@ -15,3 +15,23 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
+  
+  ---
+
+### :man_technologist: About Me :
+  I am a embedded and electronics enthusiast
+  
+  - :telescope: I’m working as a embedded engineer 
+
+- :seedling: Exploring Technical Content.
+
+- :zap: In my free time, I travel and explore.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sabarinath-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/sabarinath-k-a-b04a65166)
+</div>
+
+
+
